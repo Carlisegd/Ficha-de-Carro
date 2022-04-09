@@ -6,6 +6,8 @@
 // - ler codigo cidade, qtd de acidentes por cidade, e qtd de veiculos
 // - mostrar cidade co menor numero de acidentes e com maior, média de carros do total de todas as ciaddes, média de acidentes
 // das cidades q tem menos de 2000 veiculos.
+
+
 int main (){
 
     int cod_cidade[QTD_DADOS], num_veiculos[QTD_DADOS], num_acidentes[QTD_DADOS], menor, maior, qtd_cadastros, qtd_soma2;
